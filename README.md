@@ -2,6 +2,16 @@ CRUD menggunakan Codeigniter dan Twitter Bootstrap (Sebagai Template)
 
 Untuk live demonya menyusul
 
-Jika ada pertanyaan silahkan email ke saya newbie.masih@mail.ru
+Cara Menggunakan
 
-Terima Kasih  
+1. masuk ke application/config/config.php pada bagian $config['base_url']	= 'http://localhost/project/CICrud';
+silahkan isi alamat url milik Anda.
+
+2. masuk ke application/config/database.php 
+silahkan sesuaikan dengan mysql (user, pass, db) yang Anda buat.
+
+Jika masih bingung silahkan contact saya di newbie.masih@hotmail.com
+
+Terima Kasih 
+
+
