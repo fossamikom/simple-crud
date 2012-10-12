@@ -12,6 +12,8 @@ silahkan sesuaikan dengan mysql (user, pass, db) yang Anda buat.
 
 Jika masih bingung silahkan contact saya di newbie.masih@hotmail.com
 
+screenshoot http://goo.gl/KZTRk
+
 Terima Kasih 
 
 
